@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SallesNeto
-- 👀 I’m interested in  HTML, CSS, Javascript
-- 🌱 I’m currently learning ... Html , CSS 
+- 👀 I’m interested in Python e SQL
+- 🌱 I’m currently learning ... Python e SQL
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ... francisco.salles87@gmail.com
 
